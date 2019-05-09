@@ -3,7 +3,8 @@
 
 # allatal=0
 # for i in range(1000000):
-#     allatal +=i
+#     i +=1 # i ökar med 1 varje gång loopen körs
+#     allatal +=i #lägger på talet på den totala summan
 # print(allatal)
 
 # 4.2
@@ -21,7 +22,7 @@
 # avanmälningar=['Anna','Erik', 'Karl']
 
 # for namn in avanmälningar:
-#     del registrerade[registrerade.index(namn)] raderar alla namn i registerade som finn med i avanmälningar
+#     del registrerade[registrerade.index(namn)] #raderar alla namn i registerade som finns med i avanmälningar
 
 # print(registrerade)
 
@@ -31,6 +32,6 @@
 # efternamn=['Svensson','Karlsson','Andersson']
 
 # for namn in förnamn:
-#     for name in efternamn:
+#     for name in efternamn: 
 #         print(namn, name)
 
