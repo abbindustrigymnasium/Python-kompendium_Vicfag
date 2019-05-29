@@ -13,3 +13,5 @@ Den här filen innehåller koden som skapar frågesporten.
 ##ui.py
 
 Innehåller funktioner som gör att det är enklare att göra en snyggare ui.
+
+Av någon okänd anledning fick jag inte till det med titlarna men i readme till robotprojektet fungerade det. 
