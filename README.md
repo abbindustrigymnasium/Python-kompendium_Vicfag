@@ -1,4 +1,4 @@
-##Python miniprojekt
+#Python miniprojekt
 
 Jag har gjort en frågesport där man svarar med True eller False på enkla djurfrågor. Frågorna kommer från en url och frågorna hamnar i random ording. Urlen uppdateras också så ibland kommer det nya frågor. 
 
